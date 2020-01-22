@@ -1,0 +1,10 @@
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\bin\Debug\xlsxToCsv.exe.config
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\bin\Debug\xlsxToCsv.exe
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\bin\Debug\xlsxToCsv.pdb
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\bin\Debug\Excel.dll
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\obj\Debug\xlsxToCsv.csprojAssemblyReference.cache
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\obj\Debug\xlsxToCsv.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\obj\Debug\xlsxToCsv.csproj.CopyComplete
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\obj\Debug\xlsxToCsv.exe
+C:\Users\Paulo\Downloads\xlsxToCsv-master\xlsxToCsv-master\obj\Debug\xlsxToCsv.pdb
